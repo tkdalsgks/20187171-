@@ -1,7 +1,7 @@
 # 한림대학교 소프트웨어융합대학
 # 이력서
 ---
-<img src=hsm.jpg height=170 width=150>
+<img src=hsm.jpg height=180 width=150>
 * 이름 : 한상민   
 * 취미 : 자전거, 여행   
 * 소속 : 소프트웨어융합대학   
