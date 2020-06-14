@@ -7,7 +7,6 @@
 * 취미 : 자전거, 여행   
 * 소속 : 한림대학교 소프트웨어융합대학   
 * 전공 : 빅데이터
-* 병역 : 22사단 53연대 육군병장 만기전역(2019.02)
 * github : [github.com/tkdalsgks][github]
 
 [github]:http://github.com/tkdalsgks
