@@ -7,6 +7,9 @@
 * 취미 : 자전거, 여행   
 * 소속 : 소프트웨어융합대학   
 * 전공 : 빅데이터
+* github : [github.com/tkdalsgks][github]
+
+[github]:http://github.com/tkdalsgks
 
 관심분야
 ---
@@ -39,6 +42,4 @@
 * 수상 날짜 : 2019년 10월
 
 
-github adress : [H-SM][github]
-
-[github]:http://github.com/tkdalsgks
+***감사합니다**
