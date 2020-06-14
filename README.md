@@ -24,7 +24,19 @@
 * 상지영서대학교 졸업(2015 ~ 2020)
 * 한림대학교 재학(2020 ~ )
 
+수상 경력
+---
+**World Robot Olympiad - Innovate Award(금상)**   
+* 수상 날짜 : 2016년 8월
 
+**2016 국제로봇콘테스트 - Creative Design**   
+* 수상 날짜 : 2016년 10월
+
+**World Robot Olympiad in INDIA - 한국 국가대표**   
+* 수상 날짜 : 2016년 11월
+
+**2019 국제로봇콘테스트 - 로봇신문사장상(동상)**   
+* 수상 날짜 : 2019년 10월
 
 
 github adress : [H-SM][github]
