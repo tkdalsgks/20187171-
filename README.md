@@ -1,6 +1,6 @@
 # 한림대학교 소프트웨어융합대학
 ---
-<img src=hsm.jpg height=150 width=150>
+<img src=hsm.jpg height=170 width=150>
 한상민
 
 ---
