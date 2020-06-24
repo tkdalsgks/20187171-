@@ -21,7 +21,6 @@
 ---
 * C   
 * JAVA
-* LabVIEW
 
 학력
 ---
