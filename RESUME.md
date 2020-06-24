@@ -20,7 +20,7 @@
 스킬
 ---
 * C   
-* Java
+* JAVA
 * LabVIEW
 
 학력
