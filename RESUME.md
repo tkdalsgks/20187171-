@@ -9,6 +9,7 @@
 * 전공 : 빅데이터
 * 병역 : 22사단 육군병장 만기전역
 * github : [github.com/tkdalsgks][github]
+
 [github]:http://github.com/tkdalsgks
 
 관심분야
